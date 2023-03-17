@@ -4,7 +4,7 @@ This project contains 2 algorithms: 1.Shortest Job First(SJF) , 2.Round Robin(RR
 
 ## SJF Algorithm
 Shortest Job First (SJF) is a type of disk scheduling algorithm in the operating system in which the processor executes the job first that has the smallest execution time. In the shortest Job First algorithm, the processes are scheduled according to the burst time of these processes.
-check the code from <a href="src/algorithm/SJF.java"> </a> file
+check the code from <a href="https://github.com/ranwaasala/CPU-Scheduling-Algorithms-SJF-and-RR-using-java/blob/main/src/algorithm/SJF.java"> </a> file
 
 ![My_Image](SJF.png)
 
